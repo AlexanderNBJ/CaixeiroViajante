@@ -2,7 +2,10 @@
     3ª Avaliação - Trabalho Prático
     O Problema do Caixeiro Viajante - Vizinho Mais Próximo
 
-    Alexander Neves Barbosa Júnior
+    Nomes:  Alexander Neves Barbosa Júnior
+            Maurílio Rittershaussen Novaes
+            Samuel Viana Santana
+    
     Data: 08/08/2024
 */
 
